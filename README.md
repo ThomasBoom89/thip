@@ -14,7 +14,7 @@ and now I like to share it with maker/creator/programmer and many more :)
 
 Installation can be different, depending on what OS you are on. Guide is written for linux x86 OS.
 \
-Requirements: installed working go environment on build machine >= 1.17
+Requirements: installed working go environment on build machine >= 1.20
 
 Clone the repo and build binary
 
@@ -58,7 +58,7 @@ make a PR. Also, there are several points that could be worked off to help other
 
 THIP - Thingiverse Zip Downloader CLI, a cli scraper to bundle a zip archive with all stl files of one model found
 on [Thingiverse](https://www.thingiverse.com/).\
-Copyright (C) 2022 ThomasBoom89. GNU GPL3 license (GNU General Public License Version 3).
+Copyright (C) 2022 - 2023 ThomasBoom89. GNU GPL3 license (GNU General Public License Version 3).
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public
 License as published by the Free Software Foundation, either version 3 of the License, or (at your option)
